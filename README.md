@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunobarbosa-76
 - 👀 I’m interested in Front-End.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on Anyone.
+- 💞️ I’m looking to collaborate with Anyone.
 - 📫 How to reach me: Email me! I check them periodically.
 - 😄 Pronouns: I'm a Male, so He/Him works just fine.
 - ⚡ Fun fact: I don't have much understanding of how social networks work, even though I'm from this generation.
